@@ -1,1 +1,1 @@
-export const BACKEND_BASEURL = "http://localhost:5000/"
+export const BACKEND_BASEURL = "https://mart-api.vercel.app/"
